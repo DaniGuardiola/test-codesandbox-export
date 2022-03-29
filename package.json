@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "ariakit": "latest",
+    "namor": "2.0.3",
+    "react": "experimental",
+    "react-dom": "experimental",
+    "react-scripts": "latest",
+    "typescript": "latest"
+  }
+}
